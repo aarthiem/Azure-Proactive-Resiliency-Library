@@ -16,6 +16,7 @@ The presented resiliency recommendations in this guidance include Api Management
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|:------:|:-------:|:-------------------:|
 | [APIM-1 - Migrate API Management services to Premium SKU to support Availability Zones](#apim-1---migrate-api-management-services-to-premium-sku-to-support-availability-zones) | Availability |  High  | Preview |         Yes         |
 | [APIM-2 - Enable Availability Zones on Premium API Management instances](#apim-2---enable-availability-zones-on-premium-api-management-instances)                               | Availability |  High  | Preview |         Yes         |
+| [APIM-3 - Upgrade to platform version stv2](#apim-3---upgrade-to-platform-version-stv2)                             | Availability |  High  | Preview |         Yes         |
 {{< /table >}}
 
 {{< alert style="info" >}}
